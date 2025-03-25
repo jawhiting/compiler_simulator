@@ -6,12 +6,6 @@
 [INFO] --------------------------------[ jar ]---------------------------------
 [INFO]
 [INFO] --- exec:3.0.0:java (default-cli) @ compiler_simulator ---
-Downloading from central: https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-utils/3.0.20/plexus-utils-3.0.20.jar
-Downloaded from central: https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-utils/3.0.20/plexus-utils-3.0.20.jar (243 kB at 356 kB/s)
-Downloading from central: https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-component-annotations/1.6/plexus-component-annotations-1.6.jar
-Downloading from central: https://repo.maven.apache.org/maven2/org/apache/maven/shared/maven-artifact-transfer/0.10.1/maven-artifact-transfer-0.10.1.jar
-Downloaded from central: https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-component-annotations/1.6/plexus-component-annotations-1.6.jar (4.3 kB at 36 kB/s)
-Downloaded from central: https://repo.maven.apache.org/maven2/org/apache/maven/shared/maven-artifact-transfer/0.10.1/maven-artifact-transfer-0.10.1.jar (128 kB at 711 kB/s)
 Compiler Simulator
 ------------------
 Using parameters:
@@ -19,7 +13,7 @@ Using parameters:
   File size: 1024 bytes
   Number of subfolders: 30
   Number of files per subfolder: 500
-Created root folder: .\compiler_sim_0db757af-2e49-4257-b4b5-fa0b11b96a11
+Created root folder: .\compiler_sim_8d10fba7-e0fd-4485-97a3-5ca789f9f3fc
 File creation progress: 100 files created
 File creation progress: 200 files created
 File creation progress: 300 files created
@@ -471,13 +465,13 @@ File deletion progress: 14800 files deleted
 File deletion progress: 14900 files deleted
 File deletion progress: 15000 files deleted
 Operation Statistics (in milliseconds):
-Folder Creation: Min = 0 ms, Avg = 0.48 ms, Max = 2 ms
-File Creation: Min = 0 ms, Avg = 0.54 ms, Max = 37 ms
-File Reading: Min = 0 ms, Avg = 0.13 ms, Max = 33 ms
-File Deletion: Min = 0 ms, Avg = 0.23 ms, Max = 50 ms
+Folder Creation: Min = 0 ms, Avg = 3.03 ms, Max = 70 ms
+File Creation: Min = 0 ms, Avg = 1.09 ms, Max = 40 ms
+File Reading: Min = 0 ms, Avg = 0.22 ms, Max = 67 ms
+File Deletion: Min = 0 ms, Avg = 0.28 ms, Max = 26 ms
 [INFO] ------------------------------------------------------------------------
 [INFO] BUILD SUCCESS
 [INFO] ------------------------------------------------------------------------
-[INFO] Total time:  23.836 s
-[INFO] Finished at: 2025-03-25T21:53:58Z
+[INFO] Total time:  37.466 s
+[INFO] Finished at: 2025-03-25T22:05:08Z
 [INFO] ------------------------------------------------------------------------
